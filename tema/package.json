@@ -1,0 +1,21 @@
+{
+  "name": "tema",
+  "displayName": "Pink-Baby",
+  "description": "por que tem cores que gosto",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RackelRodrigues",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RackelRodrigues-color-theme.json"
+      }
+    ]
+  }
+}
